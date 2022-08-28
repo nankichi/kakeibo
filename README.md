@@ -6,7 +6,7 @@
 
 # Features
 
-シンプルなデザインの家計簿アプリです。
+シンプルなデザインの家計簿アプリです。<br>
 要素の検索やソートも行えます。
 
 <kbd><img src="https://user-images.githubusercontent.com/69752179/187072204-3b1ddaa6-3efe-4a7a-bc83-4dacae1a990d.png" width="700" ></kbd>
