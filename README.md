@@ -8,7 +8,7 @@
 
 ![demo1](https://raw.github.com/wiki/nankichi/kakeibo/images/e1ojo-0icuf.gif)
 
-<img src="https://user-images.githubusercontent.com/69752179/187068202-457fc39d-1819-4f04-9bec-b0733d5dc50f.gif" width="(7px)">
+<img src="https://user-images.githubusercontent.com/69752179/187068202-457fc39d-1819-4f04-9bec-b0733d5dc50f.gif" width="10">
  
 # Features
  
