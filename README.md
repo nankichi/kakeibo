@@ -11,7 +11,8 @@
 
 <kbd><img src="https://user-images.githubusercontent.com/69752179/187068461-62210e95-3067-4ae3-b2bf-44cfcc8c5c14.gif" width="700" ></kbd>
 
-
+<br />
+<br />
 
 **機能2:カテゴリ毎の合計金額割合を円グラフで示せます。**
 
