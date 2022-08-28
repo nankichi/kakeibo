@@ -6,7 +6,7 @@
  
 "hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
 
-![demo1](https://raw.github.com/wiki/nankichi/kakeibo/images/e1ojo-0icuf.gif)
+<img src="https://user-images.githubusercontent.com/69752179/187068461-62210e95-3067-4ae3-b2bf-44cfcc8c5c14.gif" width="500">
 
 <img src="https://user-images.githubusercontent.com/69752179/187068202-457fc39d-1819-4f04-9bec-b0733d5dc50f.gif" width="500">
  
