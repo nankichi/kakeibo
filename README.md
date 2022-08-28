@@ -4,6 +4,9 @@
 
 <br />
 
+# Features
+
+シンプルなデザインの家計簿アプリ。
  
 # DEMO
  
@@ -18,9 +21,9 @@
 
 <kbd><img src="https://user-images.githubusercontent.com/69752179/187068202-457fc39d-1819-4f04-9bec-b0733d5dc50f.gif" width="700" ></kbd>
  
-# Features
+
  
-"hoge"のセールスポイントや差別化などを説明する
+
  
 # Requirement
  
