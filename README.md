@@ -6,13 +6,13 @@
  
 機能1:家計簿の追加・更新・削除が行えます。
 
-<img src="https://user-images.githubusercontent.com/69752179/187068461-62210e95-3067-4ae3-b2bf-44cfcc8c5c14.gif" width="500" border="1">
+<img src="https://user-images.githubusercontent.com/69752179/187068461-62210e95-3067-4ae3-b2bf-44cfcc8c5c14.gif" width="700" border="1">
 
 
 
 機能2:カテゴリ毎の合計金額割合を円グラフで示せます。
 
-<img src="https://user-images.githubusercontent.com/69752179/187068202-457fc39d-1819-4f04-9bec-b0733d5dc50f.gif" width="500" >
+<img src="https://user-images.githubusercontent.com/69752179/187068202-457fc39d-1819-4f04-9bec-b0733d5dc50f.gif" width="700" >
  
 # Features
  
