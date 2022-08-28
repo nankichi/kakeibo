@@ -6,10 +6,12 @@
 
 # Features
 
-シンプルなデザインの家計簿アプリ。
+シンプルなデザインの家計簿アプリです。
+要素の検索やソートも行えます。
 
 <kbd><img src="https://user-images.githubusercontent.com/69752179/187072204-3b1ddaa6-3efe-4a7a-bc83-4dacae1a990d.png" width="700" ></kbd>
 
+<br />
  
 # DEMO
  
@@ -23,11 +25,7 @@
 **機能2:カテゴリ毎の合計金額割合を円グラフで示せます。**
 
 <kbd><img src="https://user-images.githubusercontent.com/69752179/187068202-457fc39d-1819-4f04-9bec-b0733d5dc50f.gif" width="700" ></kbd>
- 
-
- 
-
- 
+  
 # Requirement
  
 "hoge"を動かすのに必要なライブラリなどを列挙する
