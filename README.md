@@ -21,11 +21,12 @@
 **機能2:カテゴリ毎の合計金額割合を円グラフで示せます。**
 
 <kbd><img src="https://user-images.githubusercontent.com/69752179/187068202-457fc39d-1819-4f04-9bec-b0733d5dc50f.gif" width="700" ></kbd>
+
+<br />
+<br />
   
 # Requirement
- 
-"hoge"を動かすのに必要なライブラリなどを列挙する
- 
+  
 * python 3.9.13
 * django 4.1
 
