@@ -6,9 +6,9 @@
  
 "hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
 
-![](https://raw.github.com/wiki/nankichi/kakeibo/images/e1ojo-0icuf.gif)
+![demo1](https://raw.github.com/wiki/nankichi/kakeibo/images/e1ojo-0icuf.gif)
 
-![](https://raw.github.com/wiki/nankichi/kakeibo/images/8cs5p-sdcw3.gif)
+![demo2](https://raw.github.com/wiki/nankichi/kakeibo/images/8cs5p-sdcw3.gif)
  
 # Features
  
